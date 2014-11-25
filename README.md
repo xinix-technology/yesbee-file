@@ -1,4 +1,4 @@
 yesbee-file
 ===========
 
-yesbee file module
+Sebuah ekstensi yesbee yang menambahkan komponen file.
