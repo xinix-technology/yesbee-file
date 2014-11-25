@@ -1,3 +1,4 @@
 /project.sublime-*
 /node_modules
+/test/ignore-*
 
